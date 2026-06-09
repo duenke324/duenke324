@@ -27,6 +27,7 @@ Sou um desenvolvedor e especialista em **Gestão de Redes** apaixonado por **tec
 - 💻 **Windows & Linux** - Desenvolvimento cross-platform
 - 🎮 **Minecraft Modding** - Forge, Fabric, Quilt
 - 📦 **DevOps** - Infraestrutura e deployment
+- 🔧 **FiveM** - Scripts e ferramentas customizadas
 
 ---
 
