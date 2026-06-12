@@ -8,14 +8,7 @@ Sou um desenvolvedor e especialista em **Gestão de Redes** apaixonado por **tec
 
 ## 💼 Meus Projetos
 
-### 🐳 **Docker & Containerização**
-
-- **[Windows-inside-a-Docker-container](https://github.com/duenke324/Windows-inside-a-Docker-container)** - Windows rodando dentro de um container Docker 🟦
-
-### 🎮 **Minecraft & Gaming**
-
-- **[ServerPackCreator](https://github.com/duenke324/ServerPackCreator)** - Ferramenta para criar server packs de modpacks Minecraft (Forge, NeoForge, Fabric, Quilt)
-  - 🔗 [Visite o site do projeto](https://serverpackcreator.de)
+### 🐳 **Ainda em desenvolvimento**
 
 ---
 
