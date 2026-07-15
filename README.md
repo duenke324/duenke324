@@ -6,9 +6,9 @@ Sou um desenvolvedor e especialista em **Gestão de Redes** apaixonado por **tec
 
 ---
 
-## 💼 Meus Projetos
+## 💼 Meu Trabalho
 
-### 🐳 **Ainda em desenvolvimento**
+### Programador na FSCH**
 
 ---
 
