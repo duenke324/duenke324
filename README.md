@@ -4,7 +4,6 @@
 
 Sou um **Programador Backend** e especialista em **Gestão de Redes** apaixonado por **tecnologia, automação e soluções criativas**. Trabalho com diversos projetos que envolvem **containerização, infraestrutura, games e ferramentas de sistema**. 
 
-Meu foco é criar soluções práticas e eficientes, com especialização em **engenharia reversa, análise de malware e forense digital** para identificação, investigação e mitigação de incidentes de segurança.
 
 ---
 
