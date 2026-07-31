@@ -2,25 +2,39 @@
 
 ## 🚀 Sobre Mim
 
-Sou um desenvolvedor e especialista em **Gestão de Redes** apaixonado por **tecnologia, automação e soluções criativas**. Trabalho com diversos projetos que envolvem **containerização, infraestrutura, games e ferramentas de sistema**. Meu foco é criar soluções práticas e eficientes que resolvem problemas reais.
+Sou um **Programador Backend** e especialista em **Gestão de Redes** apaixonado por **tecnologia, automação e soluções criativas**. Trabalho com diversos projetos que envolvem **containerização, infraestrutura, games e ferramentas de sistema**. 
+
+Meu foco é criar soluções práticas e eficientes, com especialização em **engenharia reversa, análise de malware e forense digital** para identificação, investigação e mitigação de incidentes de segurança.
 
 ---
 
 ## 💼 Meu Trabalho
 
-### Programador na FSCH**
+### **Programador na FSCH**
 
 ---
 
 ## 🛠️ Tecnologias & Ferramentas
 
+**Áreas de Atuação & Infraestrutura:**
 - 🌐 **Gestão de Redes** - Configuração, monitoramento e otimização
 - 🐳 **Docker** - Containerização e orquestração
-- 🔧 **Automation** - Scripts e ferramentas customizadas
-- 💻 **Windows & Linux** - Desenvolvimento cross-platform
-- 🎮 **Minecraft Modding** - Forge, Fabric, Quilt
-- 📦 **DevOps** - Infraestrutura e deployment
-- 🔧 **FiveM** - Scripts e ferramentas customizadas
+- 🛡️ **Segurança** - Engenharia reversa, análise de malware e forense digital
+- 📦 **DevOps & Automação** - Infraestrutura, deployment e scripts customizados
+- 💻 **Sistemas Operacionais** - Windows & Linux
+- 🎮 **Games & Modding** - Minecraft (Forge, Fabric, Quilt) e FiveM
+
+**Linguagens & Bancos de Dados:**
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="Lua"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/HeidiSQL-228B22?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="HeidiSQL"/>
+</p>
 
 ---
 
