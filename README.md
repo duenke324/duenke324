@@ -18,7 +18,7 @@ Sou um **Programador Backend** e especialista em **Gestão de Redes** apaixonado
 **Áreas de Atuação & Infraestrutura:**
 - 🌐 **Gestão de Redes** - Configuração, monitoramento e otimização
 - 🐳 **Docker** - Containerização e orquestração
-- 🛡️ **Segurança** - Engenharia reversa, análise de malware e forense digital
+- 🛡️ **Segurança** - Engenharia reversa, análise de malware 
 - 📦 **DevOps & Automação** - Infraestrutura, deployment e scripts customizados
 - 💻 **Sistemas Operacionais** - Windows & Linux
 - 🎮 **Games & Modding** - Minecraft (Forge, Fabric, Quilt) e FiveM
