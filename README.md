@@ -9,7 +9,7 @@ Sou um **Programador Backend** e especialista em **Gestão de Redes** apaixonado
 
 ## 💼 Meu Trabalho
 
-### **Programador na FSCH**
+### 
 
 ---
 
